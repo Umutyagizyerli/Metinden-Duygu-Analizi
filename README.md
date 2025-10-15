@@ -28,7 +28,6 @@ Metinden-Duygu-Analizi/
 
 - data/ # Eğitim ve test veri setleri (GitHub’a dahil edilmedi)
 - results/ # Modellerin çıktıları ve skorlar
-- notebooks/ # Jupyter notebook dosyaları
 - src/ # Python kodları
 - README.md
 - requirements.txt
