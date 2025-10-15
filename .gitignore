@@ -1,0 +1,6 @@
+# Büyük dosya ve klasörleri hariç tut
+data/
+results/
+*.csv
+*.joblib
+*.pkl
